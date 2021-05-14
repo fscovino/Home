@@ -16,6 +16,8 @@ Visit my site at: [https://fscovino.github.io/Home/](https://fscovino.github.io/
 | HTML & CSS | [Lorem Steak](http://draft.prismartgraphic.com/loremsteak/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
 | HTML & CSS | [Prismart Mobile](http://mobile.prismartgraphic.com/) |
+| JavaScript | [Task Planner](https://fscovino.github.io/Task-Planner/) |
+| React js | [CodePen](https://codepen.io/fscovino) |
 | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
 | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
 | WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
