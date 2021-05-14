@@ -4,9 +4,6 @@
 Welcome to my GitHub portfolio
 
 ## Some Websites I have created
-[CMH United Corp](https://cmhunited.com/)
-
-[Kodiak Technology](https://kodiakoriginal.com/)
 
 | Language | Address |
 | ----------- | ----------- |
