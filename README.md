@@ -21,4 +21,4 @@ Welcome to my GitHub portfolio
 
 ## Author
 
-**Francisco Scovino** | *Systems Analyst & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
+**Francisco Scovino** | *Web Developer & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
