@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio
 | React js | [Code Pen](https://codepen.io/fscovino/pens/public) |
 | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
 | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
-| WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
+| WordPress & WooCommerce | [Kodiak Technology](http://kodiakoriginal.com/) |
 | Weebly | [Top Notch](http://www.topnotchcigars.com/) |
 
 
