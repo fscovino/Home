@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio
 | HTML & CSS | [Prismart Graphic](https://prismartgraphic.com/) |
 | HTML & CSS | [Lorem Steak](http://draft.prismartgraphic.com/loremsteak/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
-| HTML & CSS | [Prismart Mobile](http://mobile.prismartgraphic.com/) |
+| HTML & CSS | [Prismart Mobile](http://prismart.net/) |
 | JavaScript | [Task Planner](https://fscovino.github.io/Task-Planner/) |
 | React js | [Code Pen](https://codepen.io/fscovino/pens/public) |
 | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
