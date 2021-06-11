@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
 | JavaScript | [Task Planner](https://fscovino.github.io/Task-Planner/) |
 | React js | [Code Pen](https://codepen.io/fscovino/pens/public) |
-| HTML & CSS | [Prismart Mobile](http://prismart.net/) |
+| WordPress & Elementor | [Prismart Mobile](http://prismart.net/) |
 | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
 | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
 | WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
