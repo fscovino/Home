@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio
 
 | Language | Address |
 | ----------- | ----------- |
-| HTML & CSS | [Money with Kathy](https://yfg1v.csb.app/) |
+| HTML & CSS | [Money with Kathy](https://zz880.csb.app/) |
 | HTML & CSS | [Lorem Steak](http://draft.prismartgraphic.com/loremsteak/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
 | JavaScript | [Task Planner](https://fscovino.github.io/Task-Planner/) |
