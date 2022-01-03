@@ -13,7 +13,8 @@ Welcome to my GitHub portfolio
 | HTML & CSS | [Lorem Steak](http://draft.prismartgraphic.com/loremsteak/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
 | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
-| WordPress & Elementor | [Prismart Mobile](http://prismart.net/) |
+| WordPress & Guthenberg | [Prismart Mobile](http://prismart.net/) |
+| WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
 | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
 | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
 | WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
