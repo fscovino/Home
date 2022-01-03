@@ -10,7 +10,6 @@ Welcome to my GitHub portfolio
 | React js | [Kanban](https://github.com/fscovino/kanban) |
 | JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) |
 | HTML & CSS | [Money with Kathy](https://zz880.csb.app/) |
-| HTML & CSS | [Lorem Steak](http://draft.prismartgraphic.com/loremsteak/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
 | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
 | WordPress & Guthenberg | [Prismart Mobile](http://prismart.net/) |
