@@ -7,8 +7,8 @@ Welcome to my GitHub portfolio
 
 | Language | Address |
 | ----------- | ----------- |
-| React js | [Kanab](https://github.com/fscovino/kanban) |
-| JavaScript | [Task Planner](https://fscovino.github.io/Task-Planner/) |
+| React js | [Kanban](https://github.com/fscovino/kanban) |
+| JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) |
 | HTML & CSS | [Money with Kathy](https://zz880.csb.app/) |
 | HTML & CSS | [Lorem Steak](http://draft.prismartgraphic.com/loremsteak/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
